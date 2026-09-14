@@ -7,3 +7,10 @@ env/
 .env
 data/
 *.db
+
+# Fyers Logs and Tokens
+*.log
+fyers_token.txt
+
+# Virtual Environments
+.venv*/
